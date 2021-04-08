@@ -2,18 +2,18 @@ body{
     background-color: black;
 }
 link:link{
-    color:cornsilk;
+    background-color:cornsilk;
     text-decoration:none;
 }
 link:visited{
-    color:cornsilk;
+    background-color:cornsilk;
     text-decoration:none;
 }
 link:hover{
-    color:rgb(215, 225, 228);
+    background-color:rgb(215, 225, 228);
     text-decoration:none;
 }
 link:active{
-    color:#f8fdff;
+    background-color:#f8fdff;
     text-decoration:none;
 }
