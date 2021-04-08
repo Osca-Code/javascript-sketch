@@ -1,19 +1,19 @@
 body{
     background-color: black;
 }
-link:link{
+.link:link{
     background-color:cornsilk;
     text-decoration:none;
 }
-link:visited{
+.link:visited{
     background-color:cornsilk;
     text-decoration:none;
 }
-link:hover{
+.link:hover{
     background-color:rgb(215, 225, 228);
     text-decoration:none;
 }
-link:active{
+.link:active{
     background-color:#f8fdff;
     text-decoration:none;
 }
