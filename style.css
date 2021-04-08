@@ -13,3 +13,7 @@ link:hover{
     color:rgb(215, 225, 228);
     text-decoration:none;
 }
+link:active{
+    color:#f8fdff;
+    text-decoration:none;
+}
