@@ -1,3 +1,15 @@
 body{
     background-color: black;
 }
+link:link{
+    color:cornsilk;
+    text-decoration:none;
+}
+link:visited{
+    color:cornsilk;
+    text-decoration:none;
+}
+link:hover{
+    color:rgb(215, 225, 228);
+    text-decoration:none;
+}
