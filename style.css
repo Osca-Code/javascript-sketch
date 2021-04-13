@@ -32,3 +32,15 @@ h4{
 #alert{
     color:#f96161;
 }
+#top{
+    background-color:#92bbbf;
+    margin-bottom:10px;
+    height: 10cm;
+}
+#home{
+    display:inline;
+}
+#head{
+    color:#709194;
+    text-align: top center;
+}
