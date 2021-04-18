@@ -35,12 +35,12 @@ h4{
 #top{
     background-color:#92bbbf;
     margin-bottom:10px;
-    height: 10cm;
+    height: 6cm;
 }
 #home{
     display:inline;
 }
-#head{
-    color:#709194;
-    text-align: top center;
+#menu{
+    text-align: top left;
+    margin-left: 80%;
 }
